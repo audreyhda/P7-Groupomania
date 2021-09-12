@@ -1,5 +1,24 @@
 # P7-Groupomania
 
+Le projet 7 consiste à construire (Frontend et Backend) un réseau social interne pour les employés de Groupomania. En utilisant une organisation "agile", il n'y a que quelques orientations et contraintes.
+
+-Fonction, partager/commenter des gifs genre le site 9GAG.
+-Fonction, écrire/partager des articles à la façon de Reddit.
+-Utiliser le langage SQL pour le stockage de données.
+-Les données de connexion doivent être sécurisées.
+-L'un des employés du groupe testera un MVP du produit avec une seule des deux fonctions demandées.
+-Choix: " Pouvoir partager et commenter des gifs ".
+
+Objectifs et Compétences évalués: 
+
+-Gérer un stockage de données à l'aide de SQL
+-Personnaliser le contenu envoyé à un client web
+-Implémenter un stockage de données sécurisé en utilisant SQL
+-Authentifier un utilisateur et maintenir sa session
+
+/////////
+
+
 Créez un réseau social d’entreprise
 
 Mis à jour le mardi 7 septembre 2021
